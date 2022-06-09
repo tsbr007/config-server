@@ -1,7 +1,7 @@
 msg = Hello world - this is from config server - default profile
 test = testmessage from default
-population = 1234
-literacy-rate =  90%
+population = 125,502,000
+literacy-rate =  91%
 largest-city =  Mumbai
 prime-minister =  Narendra Modi
 president = Ramnath Kovind
